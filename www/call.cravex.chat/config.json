@@ -1,0 +1,15 @@
+{
+  "default_server_config": {
+    "m.homeserver": {
+      "base_url": "https://server.cravex.chat",
+      "server_name": "server.cravex.chat"
+    }
+  },
+  "livekit": {
+    "livekit_service_url": "https://webrtc.cravex.chat/livekit/jwt"
+  },
+  "features": {
+    "feature_use_device_session_member_events": true
+  },
+  "eula": "https://static.element.io/legal/online-EULA.pdf"
+}
